@@ -1,2 +1,3 @@
 name: Nihir Gulati - Home
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
